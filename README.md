@@ -35,9 +35,6 @@ Clone the project
   git clone https://github.com/elpuchito/e-commerce-endrock.git
 ```
 
-Go to the project directory
-
-
 Install dependencies
 
 ```bash
