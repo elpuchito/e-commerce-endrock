@@ -26,7 +26,6 @@ const App: React.FC = () => {
         <Footer />
       </Router>
     </CartProvider>
-
   );
 };
 
