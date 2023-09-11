@@ -37,7 +37,7 @@ Start the server
   npm run dev
 ```
 
-The application will run at http://localhost:3000.
+The application will run at http://localhost:5173.
 
 Hope you have a great time checking the demo.
 
