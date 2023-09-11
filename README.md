@@ -32,14 +32,11 @@ Cart
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/elpuchito/e-commerce-endrock.git
 ```
 
 Go to the project directory
 
-```bash
-  cd endrock-challenge
-```
 
 Install dependencies
 
